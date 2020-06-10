@@ -7,5 +7,6 @@
 go get -u https://github.com/gomjw/rgtm
 ```
 
-## Usage
+## Documentation
 
+Documentation can be found [here](https://pkg.go.dev/github.com/gomjw/rgtm?tab=doc).
